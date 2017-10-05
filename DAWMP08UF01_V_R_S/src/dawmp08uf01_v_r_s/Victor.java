@@ -11,16 +11,17 @@ package dawmp08uf01_v_r_s;
  */
 public class Victor {
     
-    private void metodoVictor1(){
+    private void metodoVictor1(int num1, int num2){
         
+        num1=num1+num2;
     }
     
-    private void metodoVictor2(){
-        
+    private void metodoVictor2(String nombre){
+        System.out.print(nombre);
     }
     
-    public void metodoVictor3(){
-        
+    public void metodoVictor3(int n){
+        System.out.print(n);
     }
     
     
