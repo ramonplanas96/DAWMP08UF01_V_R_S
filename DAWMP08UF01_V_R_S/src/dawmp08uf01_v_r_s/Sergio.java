@@ -12,6 +12,7 @@ package dawmp08uf01_v_r_s;
 public class Sergio {
     
    public void metodoSergio1 () {
+       System.out.println("metodo para push");
    } 
    
    protected void metodoSergio2 () {
