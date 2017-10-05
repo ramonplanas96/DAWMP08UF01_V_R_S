@@ -11,4 +11,15 @@ package dawmp08uf01_v_r_s;
  */
 public class Ramon {
     
+    public String metodoRamon1(){
+        return "Hola";
+    }
+    
+    private void metodoRamon2(){
+        
+    }
+    
+    protected int metodoRamon3(){
+        return 10;
+    }
 }
