@@ -16,6 +16,7 @@ public class Sergio {
    } 
    
    protected void metodoSergio2 () {
+       System.out.println("Modificando...?");
    } 
    
    private void metodoSergio3 () {
